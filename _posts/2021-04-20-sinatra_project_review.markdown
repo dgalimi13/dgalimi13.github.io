@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Sinatra Project Review"
-date:       2021-04-20 16:04:21 +0000
+title:      "Rails Project Review"
+date:       2021-04-20 12:04:22 -0400
 permalink:  sinatra_project_review
 ---
 
