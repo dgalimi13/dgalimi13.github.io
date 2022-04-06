@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Rails/Redux Project Review"
-date:       2022-04-06 15:41:06 +0000
+date:       2022-04-06 11:41:07 -0400
 permalink:  rails_redux_project_review
 ---
 
