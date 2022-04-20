@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Types of Components"
-date:       2022-04-20 16:26:02 +0000
+date:       2022-04-20 12:26:03 -0400
 permalink:  types_of_components
 ---
 
@@ -10,7 +10,7 @@ React/Redux has been an incredibly powerful tool in my journey to develop more a
 
 Components can be both static and dynamic in nature. a component such as:
 
-export default class QuoteComponent extends Component {
+export default class staticQuoteComponent extends Component {
 
 	render() {
 		return (
@@ -28,6 +28,8 @@ export default class QuoteComponent extends Component {
 this type of component is responsible for rendering specific data that is hardcoded into the component. 
 
 however components can also render content dynamically based on props that are passed down to it from a parent component such as in the following component.
+
+export default class dynamicQuoteComponent extends Component {
 
 render() {
 		return (
